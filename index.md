@@ -11,6 +11,8 @@ using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed images like this:
 
+![](https://i.natgeofe.com/n/de94c416-6d23-45f5-9708-e8d56289268e/naturepl_01132178_4x3.jpg)
+
 ![](https://hips.hearstapps.com/hmg-prod/images/easter-bunny-origins-1581358909.jpg)
 
 When you click the **Knit** button a document will be generated that
